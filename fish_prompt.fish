@@ -44,7 +44,7 @@ function show_vim_mode
         printf 'v'
     end
     set_color normal
-    printf '] '
+    printf ']'
 end
 
 function show_prompt
