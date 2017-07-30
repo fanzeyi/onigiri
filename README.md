@@ -1,6 +1,6 @@
 # onigiri 🍙
 
-A fish prompt theme based one [tomita](https://github.com/daveyarwood/tomita)
+A fish prompt theme based [tomita](https://github.com/daveyarwood/tomita).
 
 > Note: Make sure you're using a Unicode-enabled terminal and font.
 
@@ -21,3 +21,7 @@ A fish prompt theme based one [tomita](https://github.com/daveyarwood/tomita)
 >
 >     # turn on vi mode when the shell starts
 >     fish_vi_mode
+
+## Screenshot
+
+![onigiri screenshot](./img/screenshot.png)
